@@ -1,0 +1,17 @@
+fastapi[standard]~=0.115.11
+minidb~=2.0.8
+
+mysql-connector-python
+tabulate
+torch
+accelerate
+langchain
+transformers
+openai
+peft
+bitsandbytes
+datasets
+wandb
+nltk
+thefuzz
+tiktoken

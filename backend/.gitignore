@@ -1,0 +1,6 @@
+data/
+data.sqlite
+interactions/*.sqlite
+runs/*.sqlite
+*.sqlite-journal
+justine/models/*

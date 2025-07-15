@@ -1,4 +1,22 @@
-# justine-demo
-Demo for JUSTINE, our system for self-organizing Schemas
+# JUSTINE (JUST-INsert Engine): Demonstrating Self-organizing Data Schemas
 
-Currently under submission, code, models, and datasets will be made public once the paper is accepted.
+Benjamin Hättasch, Leon Krüger & Carsten Binnig
+
+Demo at VLDB'25
+
+![](intro.png)
+
+## How to use
+
+### Frontend
+
+```sh
+npm install
+npm start
+```
+### Backend
+
+```sh
+pip install -r requirements.txt
+fastapi dev main.py
+```
